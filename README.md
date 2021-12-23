@@ -1,7 +1,8 @@
 # FullHouse
 FullHouse Website (Landing Page)
 
-AZMart Website merupakan salah satu project full stack saya untuk membantu klien saya membuat website e-commerce yang sederhana. Mulai dari pemesanan hingga pembayaran. Untuk pembayaran digunaan API dari RajaOngkir untuk memudahkan dalam transaksi pengiriman barang. Terdapat 2 jenis role mode yaitu admin dan customer.
+### About FullHouse
+Full House Website merupakan salah satu project website sederhana dari saya untuk memberikan wadah bagi penyedia  jasa mengerjakan tugas dengan pengguna jasa tersebut.  Website ini masih bagian front end saja dan masih bisa dikembangkan lebih lanjut.
 
 # Berikut Gambaran dari Landing Page dari FullHouse
 ![diagram](FullHouseWebsite_LP.png)
