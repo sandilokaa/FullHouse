@@ -1,2 +1,2 @@
 # FullHouse
-FullHouse Website
+FullHouse Website (Landing Page)
